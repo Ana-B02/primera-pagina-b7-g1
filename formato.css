@@ -1,0 +1,11 @@
+body {
+    background: linear-gradient(to bottom, #ffffff 0%, #cdb4db 76%);
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.centrar-texto{
+    text-align: center;
+}
